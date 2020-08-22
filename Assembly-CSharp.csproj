@@ -56,9 +56,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Template\Scripts\SimpleCameraController.cs" />
-    <Compile Include="Assets\Template\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Template\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\Rotator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
